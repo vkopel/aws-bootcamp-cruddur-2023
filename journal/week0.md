@@ -38,5 +38,7 @@ I created my own Budget for $1 because I cannot afford any kind of spend.
 
 ![Cruddur Logical Design](/journal/assets/logical-architecture-recreation-diagram.png)
 
+[Lucid Charts Share Link](https://lucid.app/lucidchart/3b8593fc-1f1c-4c80-bfdf-f0a7b767bb9a/edit?viewport_loc=-393%2C-2539%2C2798%2C1282%2C0_0&invitationId=inv_a6ce0412-00a6-40a8-82ce-bef798036b4c)
+
 ## Homework Challenges
 

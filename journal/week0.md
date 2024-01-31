@@ -28,5 +28,15 @@ C:\Users\Valdano>aws
 operable program or batch file.
 ```
 
+### Create a Budget
+
+I created my own Budget for $1 because I cannot afford any kind of spend.
+
+![Image of The Budget Alarm I Created](/journal/assets/billing-alarm.png)
+
+### Recreate Logical Architectural Design 
+
+![Cruddur Logical Design](/journal/assets/logical-architecture-recreation-diagram.png)
+
 ## Homework Challenges
 
